@@ -1,0 +1,19 @@
+{
+  "name": "@foo/different-scope-for-npm-ghp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boeckMt/different-scope-for-npm-ghp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boeckMt/different-scope-for-npm-ghp/issues"
+  },
+  "homepage": "https://github.com/boeckMt/different-scope-for-npm-ghp#readme"
+}
